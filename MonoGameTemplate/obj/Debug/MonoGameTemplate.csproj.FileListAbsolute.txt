@@ -1,0 +1,220 @@
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\obj\Debug\MonoGameTemplate.csprojAssemblyReference.cache
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\obj\Debug\MonoGameTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe.config
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\MonoGameTemplate.pdb
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\MonoGame.Framework.dll
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.dll
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.XInput.dll
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\MonoGame.Framework.xml
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.xml
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\bin\Debug\SharpDX.XInput.xml
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\obj\Debug\MonoGameTemplate.csproj.CopyComplete
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\obj\Debug\MonoGameTemplate.exe
+C:\Users\Chris\Downloads\MonoGameTemplate\MonoGameTemplate\obj\Debug\MonoGameTemplate.pdb
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe.config
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGameTemplate.pdb
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGame.Framework.dll
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.dll
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XInput.dll
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGame.Framework.xml
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.xml
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XInput.xml
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.csproj.CopyComplete
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.exe
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.pdb
+C:\Users\Chris\Downloads\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.csprojAssemblyReference.cache
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe.config
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\MonoGameTemplate.pdb
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\MonoGame.Framework.dll
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.dll
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.XInput.dll
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\MonoGame.Framework.xml
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.xml
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.XInput.xml
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\obj\Debug\MonoGameTemplate.csprojAssemblyReference.cache
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\obj\Debug\MonoGameTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\obj\Debug\MonoGameTemplate.csproj.CopyComplete
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\obj\Debug\MonoGameTemplate.exe
+C:\Users\Chris\Downloads\Mono Game Template 030919\MonoGameTemplate\obj\Debug\MonoGameTemplate.pdb
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\obj\Debug\MonoGameTemplate.csprojAssemblyReference.cache
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\obj\Debug\MonoGameTemplate.csproj.CoreCompileInputs.cache
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\obj\Debug\MonoGameTemplate.exe
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\obj\Debug\MonoGameTemplate.pdb
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe.config
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\MonoGameTemplate.pdb
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\MonoGame.Framework.dll
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.dll
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.dll
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.dll
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.dll
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.DXGI.dll
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.dll
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.dll
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.dll
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.XInput.dll
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\MonoGame.Framework.xml
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.xml
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.xml
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.xml
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.xml
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.DXGI.xml
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.xml
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.xml
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.xml
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\bin\Debug\SharpDX.XInput.xml
+D:\Programs\Mono Game Template 030919\MonoGameTemplate\obj\Debug\MonoGameTemplate.csproj.CopyComplete
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe.config
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGameTemplate.pdb
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGame.Framework.dll
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.dll
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.dll
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.dll
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.dll
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.DXGI.dll
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.dll
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.dll
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.dll
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XInput.dll
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGame.Framework.xml
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.xml
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.xml
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.xml
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.xml
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.DXGI.xml
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.xml
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.xml
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.xml
+D:\Programs\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XInput.xml
+D:\Programs\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.csprojAssemblyReference.cache
+D:\Programs\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.csproj.CopyComplete
+D:\Programs\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.exe
+D:\Programs\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.pdb
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe.config
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGameTemplate.pdb
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGame.Framework.dll
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.dll
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.dll
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.dll
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.dll
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.DXGI.dll
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.dll
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.dll
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.dll
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XInput.dll
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGame.Framework.xml
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.xml
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.xml
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.xml
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.xml
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.DXGI.xml
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.xml
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.xml
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.xml
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XInput.xml
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.csprojAssemblyReference.cache
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.csproj.CopyComplete
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.exe
+D:\Projects\Fallen Star RPG\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.pdb
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe.config
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGameTemplate.pdb
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGame.Framework.dll
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.dll
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.DXGI.dll
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XInput.dll
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\MonoGame.Framework.xml
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.xml
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.DXGI.xml
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\bin\Debug\SharpDX.XInput.xml
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.csprojAssemblyReference.cache
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.csproj.CopyComplete
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.exe
+C:\Users\toumanianc\Downloads\Falling Star 10-21-20 Project\Mono Game Template\MonoGameTemplate\obj\Debug\MonoGameTemplate.pdb
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\obj\Debug\MonoGameTemplate.csprojAssemblyReference.cache
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\obj\Debug\MonoGameTemplate.exe
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\obj\Debug\MonoGameTemplate.pdb
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe.config
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\MonoGameTemplate.exe
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\MonoGameTemplate.pdb
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\MonoGame.Framework.dll
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.dll
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.dll
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.dll
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.dll
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.DXGI.dll
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.dll
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.dll
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.dll
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.XInput.dll
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\MonoGame.Framework.xml
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.xml
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.Direct2D1.xml
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.Direct3D11.xml
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.Direct3D9.xml
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.DXGI.xml
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.Mathematics.xml
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.MediaFoundation.xml
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.XAudio2.xml
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\bin\Debug\SharpDX.XInput.xml
+D:\Projects\Fallen Star RPG\MonoGameTemplate102120 UpdatedQueue\MonoGameTemplate\obj\Debug\MonoGameTemplate.csproj.CopyComplete
