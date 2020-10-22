@@ -89,6 +89,9 @@ namespace MonoGameTemplate
         // Update
         protected override void Update(GameTime gameTime)
         {
+            // Display FPS
+            //scene.textboxes[0].text = "FPS: " + (1000 / (gameTime.ElapsedGameTime.Milliseconds + 1)).ToString();
+
             HandleMessages();
             scene.UpdateGameObjects(gameTime);
             scene.Update(gameTime);
@@ -241,23 +244,32 @@ namespace MonoGameTemplate
             // Draw GameObjects
             for (int i = 0; i < scene.gameObjects.Count; i++)
             {
-                if (scene.gameObjects[i].sprite != null && scene.gameObjects[i].enabled)
-                {
-                    float depth = scene.gameObjects[i].sprite.depth;
-                    if (scene.gameObjects[i].sprite.useLevelDepth)
-                    {
-                        depth = scene.gameObjects[i].transform.position.Y * 0.0002f;
-                    }
+                GameObject gameObject = scene.gameObjects[i];
 
-                    batch.Draw(scene.gameObjects[i].sprite.texture,
-                        new Vector2((int)scene.gameObjects[i].transform.position.X - scene.camera.bounds.X, (int)scene.gameObjects[i].transform.position.Y - scene.camera.bounds.Y), 
-                        scene.gameObjects[i].sprite.bounds, 
-                        scene.gameObjects[i].sprite.color, 
-                        scene.gameObjects[i].transform.rotation,
-                        scene.gameObjects[i].transform.origin, 
-                        scene.gameObjects[i].transform.scale,
-                        scene.gameObjects[i].sprite.spriteEffect, 
-                        depth);
+                if (gameObject.enabled && gameObject.sprite != null) // Check if sprite exists and enabled
+                {
+                    if (gameObject.transform.position.X > scene.camera.bounds.X - 32 
+                        && gameObject.transform.position.X < scene.camera.bounds.Right + 32
+                        && gameObject.transform.position.Y > scene.camera.bounds.Y - 32
+                        && gameObject.transform.position.Y < scene.camera.bounds.Bottom + 32) // Culling
+                    {
+                        float depth = gameObject.sprite.depth;
+                        if (gameObject.sprite.useLevelDepth)
+                        {
+                            depth = gameObject.transform.position.Y * 0.0002f;
+                        }
+
+                        batch.Draw(gameObject.sprite.texture,
+                            new Vector2((int)gameObject.transform.position.X - scene.camera.bounds.X, 
+                            (int)gameObject.transform.position.Y - scene.camera.bounds.Y),
+                            gameObject.sprite.bounds,
+                            gameObject.sprite.color,
+                            gameObject.transform.rotation,
+                            gameObject.transform.origin,
+                            gameObject.transform.scale,
+                            gameObject.sprite.spriteEffect,
+                            depth);
+                    }
                 }
             }
 
@@ -304,8 +316,8 @@ namespace MonoGameTemplate
 
         public static void Quit()
         {
-            Client.running = false;
             Client.listenThread.Abort();
+            Client.running = false;
             Program.game.Exit();
         }
 
